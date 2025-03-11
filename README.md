@@ -5,4 +5,4 @@ The goal of these exercises is for it to serve the interviewee and the interview
 It is a take home assignment, and you should spend no more than a few hours on it. It is not meant to be 100% polished and ready for customers, it is meant to serve as a way of illustrating the way you think about problem solving.
 
 Index of Exercises
-- [Frontend](./frontend)
+- [Frontend](./frontend/demo.md)
