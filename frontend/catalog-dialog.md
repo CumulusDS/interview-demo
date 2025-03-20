@@ -81,6 +81,12 @@ type CatalogConfig = {
     },
     columns?: 1 | 2
 }
+
+type CatalogPayload = {
+    categories: Category[]
+    items: CategoryItem[]
+    tags: Tag[]
+}
 ```
 
 ## Requirement Details
